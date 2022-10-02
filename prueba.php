@@ -9,6 +9,7 @@
 <body>
 <?php    
 echo "hola como andas";
+    echo"que sucede aca"
 ?>
 </body>
 </html>
